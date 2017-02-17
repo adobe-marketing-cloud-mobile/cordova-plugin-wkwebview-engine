@@ -21,9 +21,12 @@
 
 # Release Notes
 
-### 2.0.1 (June 6, 2016)
+### 2.0.1 (Feb 17, 2017)
 * Integrate public 1.1.1 release with internal 2.0.0 release to support webview configurability
 
+
+### 2.0.0 (Jun 6, 2016)
+* Changes to make it work with AEM Mobile.
 
 ### 1.1.1 (Dec 07, 2016)
 * [CB-12224](https://issues.apache.org/jira/browse/CB-12224) Updated version and RELEASENOTES.md for release 1.1.1
@@ -50,11 +53,10 @@
 * [CB-10818](https://issues.apache.org/jira/browse/CB-10818) - Support the scroll deceleration speed preference.
 * [CB-10817](https://issues.apache.org/jira/browse/CB-10817) - Will now reload the `webView` if a crash occurs
 
-### 2.0.0 (June 6, 2016)
-* Changes to make it work with AEM Mobile.
 
 ### 1.0.3 (Apr 15, 2016)
 * [CB-10636](https://issues.apache.org/jira/browse/CB-10636) Add `JSHint` for plugins
+
 
 ### 1.0.2 (Feb 09, 2016)
 * [CB-10269](https://issues.apache.org/jira/browse/CB-10269) - Replace cordova exec only when present in wkwebview
